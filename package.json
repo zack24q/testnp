@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/zack24q/testnp.git",
   "author": "zack <zack24q@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "np": "np"
+  },
+  "devDependencies": {
+    "np": "^2.16.0"
+  }
 }
