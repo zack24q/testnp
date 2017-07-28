@@ -10,6 +10,7 @@
     "np": "np"
   },
   "devDependencies": {
+    "fs-extra": "^4.0.0",
     "np": "^2.16.0"
   }
 }
