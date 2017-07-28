@@ -6,7 +6,7 @@
   "author": "zack <zack24q@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "prepublish": "node build/prepublish.js",
+    "version": "node build/build.js",
     "np": "np"
   },
   "devDependencies": {
