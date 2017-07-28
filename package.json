@@ -1,0 +1,8 @@
+{
+  "name": "testnp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zack24q/testnp.git",
+  "author": "zack <zack24q@gmail.com>",
+  "license": "MIT"
+}
